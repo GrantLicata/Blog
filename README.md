@@ -1,6 +1,6 @@
 # Simple Blog App
 
-This is a basic blog app that allows users to create, read, update, and delete blog posts. It provides a straightforward platform for sharing your thoughts and ideas with others. The app is built using [insert technology stack/framework], making it easy to get started and customize according to your needs.
+This is a basic blog app that allows users to create, read, update, and delete blog posts. It provides a straightforward platform for sharing your thoughts and ideas with others. The app is built using technologies such as Next.js, Mongodb Atlas, Prisma, and Firebase, making it easy to get started and customize according to your needs.
 
 ## Features
 
