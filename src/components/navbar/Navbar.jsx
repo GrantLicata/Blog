@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
       <div className={styles.logo}>Blog</div>
       <div className={styles.links}>
-        {/* <ThemeToggle /> */}
+        <ThemeToggle />
         <Link href="/" className={styles.link}>
           Homepage
         </Link>
@@ -26,7 +26,7 @@ const Navbar = () => {
         <Link href="/" className={styles.link}>
           About
         </Link>
-        <AuthLinks />
+        {/* <AuthLinks /> */}
       </div>
     </div>
   );
