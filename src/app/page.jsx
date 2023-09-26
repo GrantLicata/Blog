@@ -11,7 +11,7 @@ export default function Home() {
       <Featured />
       {/* <CategoryList /> */}
       <div className={styles.content}>
-        <CardList />
+        {/* <CardList /> */}
         <Menu />
       </div>
     </div>
