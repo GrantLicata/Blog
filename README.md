@@ -22,7 +22,7 @@ Install all packages associated with the project.
     npm install
 
 Initialize the development server for Next.
-    
+
     npm run dev
 
 Initialize the prisma studio GUI.
@@ -32,6 +32,3 @@ Initialize the prisma studio GUI.
 If schema is modified then update using the following.
 
     npx prisma generate
-
-    
-    
