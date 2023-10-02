@@ -13,13 +13,14 @@
 
 .logo {
   flex: 1;
-  text-align: center;
+  text-align: start;
   font-size: 36px;
   font-weight: bold;
 }
 
 .links {
   display: flex;
+  justify-content: end;
   align-items: center;
   gap: 20px;
   flex: 1;
